@@ -39,7 +39,7 @@
         {
             "slug": "01-hello-world",
             "title": "01-hello-world",
-            "done": false,
+            "done": true,
             "path": "exercises/01-hello-world",
             "translations": [
                 "es",
@@ -50,7 +50,7 @@
         {
             "slug": "02-Select-DOM-Element",
             "title": "02-Select-DOM-Element",
-            "done": false,
+            "done": true,
             "path": "exercises/02-Select-DOM-Element",
             "translations": [
                 "es",
@@ -61,7 +61,7 @@
         {
             "slug": "03-Change-Div-Background",
             "title": "03-Change-Div-Background",
-            "done": false,
+            "done": true,
             "path": "exercises/03-Change-Div-Background",
             "translations": [
                 "es",
