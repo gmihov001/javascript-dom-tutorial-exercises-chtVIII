@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://a15e18f3-a778-40f2-bb9e-ba5fc26032e7.ws-us02.gitpod.io",
+    "address": "https://a4b0e342-d951-48f9-87f6-3d3a66f03b8b.ws-us02.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -127,7 +127,7 @@
         {
             "slug": "09-Remove-DOM-Element-part-two",
             "title": "09-Remove-DOM-Element-part-two",
-            "done": false,
+            "done": true,
             "path": "exercises/09-Remove-DOM-Element-part-two",
             "translations": [
                 "es",
