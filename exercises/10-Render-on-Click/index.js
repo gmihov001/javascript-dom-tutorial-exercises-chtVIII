@@ -1,10 +1,9 @@
-let element = document.createElement('div');
-let text = document.createTextNode('Hello World');
-element.innerHTML = text;
+let element = document.createElement("div");
+element.innerHTML = "Hello World";
+element.style.background = "yellow";
+console.log(element);
 
 let button = document.querySelector("#superDuperButton");
 button.addEventListener("click", function() {
-	//your code here
-
-
+	document.body.appendChild(element);
 });
