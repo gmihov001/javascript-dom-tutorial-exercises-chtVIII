@@ -29,7 +29,7 @@
             "slug": "00-Welcome",
             "title": "00-Welcome",
             "done": false,
-            "path": "exercises/00-Welcome",
+            "path": "exercises\\00-Welcome",
             "translations": [
                 "es",
                 "us"
@@ -39,8 +39,8 @@
         {
             "slug": "01-hello-world",
             "title": "01-hello-world",
-            "done": true,
-            "path": "exercises/01-hello-world",
+            "done": false,
+            "path": "exercises\\01-hello-world",
             "translations": [
                 "es",
                 "us"
@@ -50,8 +50,8 @@
         {
             "slug": "02-Select-DOM-Element",
             "title": "02-Select-DOM-Element",
-            "done": true,
-            "path": "exercises/02-Select-DOM-Element",
+            "done": false,
+            "path": "exercises\\02-Select-DOM-Element",
             "translations": [
                 "es",
                 "us"
@@ -61,8 +61,8 @@
         {
             "slug": "03-Change-Div-Background",
             "title": "03-Change-Div-Background",
-            "done": true,
-            "path": "exercises/03-Change-Div-Background",
+            "done": false,
+            "path": "exercises\\03-Change-Div-Background",
             "translations": [
                 "es",
                 "us"
@@ -72,8 +72,8 @@
         {
             "slug": "04-Move-DOM-Element",
             "title": "04-Move-DOM-Element",
-            "done": true,
-            "path": "exercises/04-Move-DOM-Element",
+            "done": false,
+            "path": "exercises\\04-Move-DOM-Element",
             "translations": [
                 "es",
                 "us"
@@ -83,8 +83,8 @@
         {
             "slug": "05-Create-DOM-Element-First",
             "title": "05-Create-DOM-Element-First",
-            "done": true,
-            "path": "exercises/05-Create-DOM-Element-First",
+            "done": false,
+            "path": "exercises\\05-Create-DOM-Element-First",
             "translations": [
                 "es",
                 "us"
@@ -94,8 +94,8 @@
         {
             "slug": "06-Create-DOM-Element-Second",
             "title": "06-Create-DOM-Element-Second",
-            "done": true,
-            "path": "exercises/06-Create-DOM-Element-Second",
+            "done": false,
+            "path": "exercises\\06-Create-DOM-Element-Second",
             "translations": [
                 "es",
                 "us"
@@ -105,8 +105,8 @@
         {
             "slug": "07-Create-DOM-list-of-li",
             "title": "07-Create-DOM-list-of-li",
-            "done": true,
-            "path": "exercises/07-Create-DOM-list-of-li",
+            "done": false,
+            "path": "exercises\\07-Create-DOM-list-of-li",
             "translations": [
                 "es",
                 "us"
@@ -116,8 +116,8 @@
         {
             "slug": "08-Remove-DOM-Element-part-one",
             "title": "08-Remove-DOM-Element-part-one",
-            "done": true,
-            "path": "exercises/08-Remove-DOM-Element-part-one",
+            "done": false,
+            "path": "exercises\\08-Remove-DOM-Element-part-one",
             "translations": [
                 "es",
                 "us"
@@ -127,8 +127,8 @@
         {
             "slug": "09-Remove-DOM-Element-part-two",
             "title": "09-Remove-DOM-Element-part-two",
-            "done": true,
-            "path": "exercises/09-Remove-DOM-Element-part-two",
+            "done": false,
+            "path": "exercises\\09-Remove-DOM-Element-part-two",
             "translations": [
                 "es",
                 "us"
@@ -138,8 +138,8 @@
         {
             "slug": "10-Render-on-Click",
             "title": "10-Render-on-Click",
-            "done": true,
-            "path": "exercises/10-Render-on-Click",
+            "done": false,
+            "path": "exercises\\10-Render-on-Click",
             "translations": [
                 "es",
                 "us"
@@ -149,8 +149,8 @@
         {
             "slug": "11-Add-LI-on-Click",
             "title": "11-Add-LI-on-Click",
-            "done": true,
-            "path": "exercises/11-Add-LI-on-Click",
+            "done": false,
+            "path": "exercises\\11-Add-LI-on-Click",
             "translations": [
                 "es",
                 "us"
@@ -161,7 +161,7 @@
             "slug": "12-Dynamic-HTML-String",
             "title": "12-Dynamic-HTML-String",
             "done": false,
-            "path": "exercises/12-Dynamic-HTML-String",
+            "path": "exercises\\12-Dynamic-HTML-String",
             "translations": [
                 "es",
                 "us"
@@ -172,7 +172,7 @@
             "slug": "13-Add-Options-to-the-Select",
             "title": "13-Add-Options-to-the-Select",
             "done": false,
-            "path": "exercises/13-Add-Options-to-the-Select",
+            "path": "exercises\\13-Add-Options-to-the-Select",
             "translations": [
                 "es",
                 "us"
@@ -183,7 +183,7 @@
             "slug": "14-Todo-List",
             "title": "14-Todo-List",
             "done": false,
-            "path": "exercises/14-Todo-List",
+            "path": "exercises\\14-Todo-List",
             "translations": [
                 "es",
                 "us"
